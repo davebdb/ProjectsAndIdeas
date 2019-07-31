@@ -20,3 +20,22 @@ Using this as a tracker for my plans of projects
   - parse fortinet firewall logs into CSV - To STDOUT... DONE
   - parse fortinet firewall logs into a CSV zipped file  .... In progress
   
+- Roller Derby self-registration sign-up application (web-based)
+  - medic staff
+  - NSO
+    - Allow the user to define what they are proficient in so HNSO can assign duties appropriately
+  - SO
+
+- EMA documentation application
+  - Sign-in/out
+  - Gas log
+  - Equipment Maintenance log
+  - Inventory
+    - Building
+    - Vehicle
+  - Event schedule
+    - notification
+    - sign-up form
+  - Paging / Dispatch system (branched off of previous project)
+  - way to export reports of all sub-applications
+ 
